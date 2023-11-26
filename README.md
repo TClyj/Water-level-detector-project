@@ -2,7 +2,7 @@
 
 3-Jun-2022
 
-Project owner: **Yijia Lu**
+Project owner: **Yijia Lu**， **Kevin Zhao**
 
 ## Project idea
 
